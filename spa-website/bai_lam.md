@@ -173,7 +173,7 @@ PS E:\starter-kit\spa-website> gc .\logs\tong_hop.txt
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
-| 1 |Network  |(failed)net::ERR_FILE_NOT_FOUND  |  img src="images/logo-lotuscare.png" alt="Logo" class="logo" |
+| 1 |Network  |(failed)net::ERR_FILE_NOT_FOUND  |  img src="images/logo-lotuscare.png" alt="Logo" class="logo"> |
 | 2 | Console | app.js:18 Uncaught ReferenceError: hienThiGoiDichVu is not defined | sửa từ hienThiGoiDichVu thành hienThiGoiSpa|
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
